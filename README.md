@@ -1,4 +1,4 @@
-```markdown
+
 # 🌟 Next.js Starter Template
 
 Welcome to the **Next.js Starter Template**, a modern and lightweight starting point for your next project. This template comes preloaded with essential tools and features to kickstart your development journey with minimal configuration.
